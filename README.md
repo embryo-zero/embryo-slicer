@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Slicer
+
+**Embryo Slicer** is Embryo-Zero's fork of [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 ![PrusaSlicer logo](/resources/icons/PrusaSlicer_128px.png)
 
 # PrusaSlicer
